@@ -5,10 +5,10 @@
 
 Supported Functionality
 
-/translate Translates texts from autodetected language to one you specify
-/set_lang  Specifies the language for translation
-/syn       Gives synonym to the word
-/ant       Gives antonym to the word
+/translate Translates texts from autodetected language to one you specify \n
+/set_lang  Specifies the language for translation \n
+/syn       Gives synonym to the word \n
+/ant       Gives antonym to the word \n
  
 ---
 How to run:
